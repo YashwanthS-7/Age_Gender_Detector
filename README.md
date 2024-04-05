@@ -16,3 +16,19 @@ Simple Age and Gender Detector using Machine Learning
   6. Run the [gui.py](https://github.com/YashwanthS-7/Age_Gender_Detector/blob/main/gui.py) file
   7. Upload the Image that you want to detect
   8. View Results
+
+## Sample Outputs:
+### Gui InterFace:
+![Gui Interface](https://github.com/YashwanthS-7/Age_Gender_Detector/blob/main/Output_Image1.png)
+
+### Sample Output 1:
+![Sample Output 1](https://github.com/YashwanthS-7/Age_Gender_Detector/blob/main/Output_Image2.png)
+
+### Sample Output 2:
+![Sample Output 2](https://github.com/YashwanthS-7/Age_Gender_Detector/blob/main/Output_Image3.png)
+
+### Sample Output 3:
+![Sample Output 3](https://github.com/YashwanthS-7/Age_Gender_Detector/blob/main/Output_Image4.png)
+
+### Sample Output 4:
+![Sample Output 4](https://github.com/YashwanthS-7/Age_Gender_Detector/blob/main/Output_Image5.png)
